@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e1a2fe0-f397-4559-bb9d-732221294ca8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NombreMes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NombreMes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NombreMes">
+  <component name="RunManager" selected="Application.DiasEnMes">
     <configuration name="Bisiesto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bisiesto" />
+      <module name="ControlFlows" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiasEnMes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiasEnMes" />
       <module name="ControlFlows" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiasEnMes" />
         <item itemvalue="Application.NombreMes" />
         <item itemvalue="Application.SwithCase" />
         <item itemvalue="Application.Bisiesto" />
