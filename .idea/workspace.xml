@@ -34,7 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DiasEnMes">
+  <component name="RunManager" selected="Application.SentenciaFor">
     <configuration name="Bisiesto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bisiesto" />
       <module name="ControlFlows" />
@@ -56,6 +56,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SentenciaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SentenciaFor" />
+      <module name="ControlFlows" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwithCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SwithCase" />
       <module name="ControlFlows" />
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SentenciaFor" />
         <item itemvalue="Application.DiasEnMes" />
         <item itemvalue="Application.NombreMes" />
         <item itemvalue="Application.SwithCase" />
