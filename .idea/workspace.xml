@@ -34,9 +34,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SentenciaFor">
-    <configuration name="Bisiesto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bisiesto" />
+  <component name="RunManager" selected="Application.ArreglosFor">
+    <configuration name="ArreglosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArreglosFor" />
       <module name="ControlFlows" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArreglosFor" />
         <item itemvalue="Application.SentenciaFor" />
         <item itemvalue="Application.DiasEnMes" />
         <item itemvalue="Application.NombreMes" />
         <item itemvalue="Application.SwithCase" />
-        <item itemvalue="Application.Bisiesto" />
       </list>
     </recent_temporary>
   </component>
