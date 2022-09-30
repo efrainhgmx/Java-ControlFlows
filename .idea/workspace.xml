@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1a2fe0-f397-4559-bb9d-732221294ca8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/WhileSentencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArreglosFor">
+  <component name="RunManager" selected="Application.WhileSentencia">
     <configuration name="ArreglosFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArreglosFor" />
       <module name="ControlFlows" />
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwithCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwithCase" />
+    <configuration name="WhileSentencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileSentencia" />
       <module name="ControlFlows" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhileSentencia" />
         <item itemvalue="Application.ArreglosFor" />
         <item itemvalue="Application.SentenciaFor" />
         <item itemvalue="Application.DiasEnMes" />
         <item itemvalue="Application.NombreMes" />
-        <item itemvalue="Application.SwithCase" />
       </list>
     </recent_temporary>
   </component>
