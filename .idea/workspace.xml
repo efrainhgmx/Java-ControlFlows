@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1a2fe0-f397-4559-bb9d-732221294ca8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MultiplacarDosNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MenuOpcionesInteractivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiplacarDosNumeros">
+  <component name="RunManager" selected="Application.MenuOpcionesInteractivo">
     <configuration name="EtiquetasDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EtiquetasDos" />
+      <module name="ControlFlows" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuOpcionesInteractivo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenuOpcionesInteractivo" />
       <module name="ControlFlows" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,13 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NombreMes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NombreMes" />
-      <module name="ControlFlows" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NotasAlumnos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NotasAlumnos" />
       <module name="ControlFlows" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MenuOpcionesInteractivo" />
         <item itemvalue="Application.MultiplacarDosNumeros" />
         <item itemvalue="Application.NotasAlumnos" />
         <item itemvalue="Application.MinimoValor" />
         <item itemvalue="Application.EtiquetasDos" />
-        <item itemvalue="Application.NombreMes" />
       </list>
     </recent_temporary>
   </component>
